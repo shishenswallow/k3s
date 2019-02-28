@@ -1,7 +1,7 @@
 k3s - 5 less than k8s
 ===============================================
 
-Lightweight Kubernetes.  Easy to install, half the memory, all in a binary less than 40mb.
+Lightweight Kubernetes.  Easy to install, half the memory, all in a binary less than 40MB.
 
 Great for
 * Edge
